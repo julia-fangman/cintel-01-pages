@@ -1,16 +1,20 @@
 # Julia's Website 
 
-My first website using Markdown and GitHub Pages.
+My first website using Markdown and GitHub Pages. 
 
 ## My Link
 
 Here's a clickable link: [Julia's Github Profile](https://github.com/julia-fangman)
 
-## Images
+## Different Types of Flowers
 
-Images look like links except with an exclamation directly in front
+Just because it's almost spring! 
 
 ![Sunflower](sunflower.jpg)
+![Pink/Purple Flower](Pink:Purple Flower.jpeg)
+![Pink Flower](Pink Flower.jpeg)
+![Orange Flower](Orange Flower.jpeg)
+
 
 ## Reminders
 
