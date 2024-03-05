@@ -4,8 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## My links:
 
-Here's a clickable link: https://github.com/julia-fangman
-
+Here's a clickable link: https://github.com/julia-fangman 
 
 ## Images
 
